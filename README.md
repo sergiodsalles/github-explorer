@@ -9,4 +9,6 @@
 - You must have <code>NodeJS</code> and <code>yarn</code> installed in your ambient.
 
 # Run
-Run with <code>yarn start</code>
+- Run with <code>yarn start</code>
+
+# Screenshots
